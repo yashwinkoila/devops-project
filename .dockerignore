@@ -1,0 +1,11 @@
+.git
+.gitignore
+*.md
+.vscode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+terraform/
+.ssh/
