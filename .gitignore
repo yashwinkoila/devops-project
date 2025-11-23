@@ -1,5 +1,5 @@
-.terraform/ 
-*.tfstate 
-*.tfstate.backup 
-.ssh/ 
-ip_addresses.txt 
+.terraform/
+*.tfstate
+*.tfstate.backup
+.ssh/
+ip_addresses.txt
